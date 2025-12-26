@@ -1,0 +1,20 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry.json",
+  "type": "registry:base",
+  "name": "Labrys",
+  "homepage": "https://labrys.io",
+  "items": [
+    {
+      "name": "time",
+      "type": "registry:lib",
+      "title": "Time",
+      "description": "Various time-related functions and constants.",
+      "files": [
+        {
+          "path": "lib/time/index.ts",
+          "type": "registry:lib"
+        }
+      ]
+    }
+  ]
+}
